@@ -1,4 +1,18 @@
 # INSTRUÇÕES
+
+---
+## INDICE:
+* [01) INTRODUÇÃO](./README.md#01-introdução)
+* [02) PRIMEIRO CONTATO](./README.md#02-primeiro-contato)
+* [03) NESTING](./README.md#03-nesting)
+* [04) HERANÇA EXTEND](./README.md#04-herança-extend)
+* [05) VARIÁVEIS E IMPORT](./README.md#05-variáveis-e-import)
+* [06) MIXIN](./README.md#06-mixin)
+* [08) FUNÇÕES](./README.md#08-funções)
+* [09) MINIFY](./README.md#09-minify)
+* [10-14) PROJETO FINAL](./README.md#10-14-projeto-final)
+---
+
 ## 01) INTRODUÇÃO
 ### O que é Sass?
 Sass (Syntactically Awesome Stylesheets) é uma extensão de CSS que adiciona funcionalidades poderosas e elegantes à linguagem. Foi criado para facilitar a escrita e a manutenção de folhas de estilo, permitindo o uso de variáveis, aninhamento, mixins, herança e outras funcionalidades que não estão presentes no CSS puro.
