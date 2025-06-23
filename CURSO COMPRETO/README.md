@@ -8,7 +8,7 @@
 * [04) HERANÇA EXTEND](./README.md#04-herança-extend)
 * [05) VARIÁVEIS E IMPORT](./README.md#05-variáveis-e-import)
 * [06) MIXIN](./README.md#06-mixin)
-* [08) FUNÇÕES](./README.md#08-funções)
+* [08) FUNÇÕES](./README.md#08-func%CC%A7o%CC%83es)
 * [09) MINIFY](./README.md#09-minify)
 * [10-14) PROJETO FINAL](./README.md#10-14-projeto-final)
 ---
